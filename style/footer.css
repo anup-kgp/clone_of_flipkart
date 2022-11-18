@@ -7,7 +7,7 @@
 
         footer {
             width: 100%;
-            border: 1px solid red;
+            border: 0px solid red;
             height: 400px;
             background-color: #172337;
         }
@@ -17,7 +17,7 @@
             height: 300px;
             border: 0px solid black;
             margin: auto;
-            margin-top: 25px;
+            /* margin-top: 25px; */
             display: flex;
         }
 
