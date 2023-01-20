@@ -16,7 +16,10 @@ function navbar(){
                 <img src="https://cdn-icons-png.flaticon.com/512/54/54481.png" alt="">
             </div>
         </div>
+        
         <div><input type="text" id="navlogin" placeholder="Login"></div>
+
+
         <div id="seller"><a href="">Become a Seller</a></div>
         <div id="dropdown">
             <a href="" class="navmore">More</a><i class='bx bx-caret-down'></i>
